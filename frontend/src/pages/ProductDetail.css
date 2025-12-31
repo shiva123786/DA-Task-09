@@ -1,0 +1,33 @@
+.product-detail {
+  padding: 50px;
+}
+
+.detail-container {
+  max-width: 1100px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.detail-image img {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.detail-info h1 {
+  font-size: 2rem;
+}
+
+.detail-info .category {
+  color: #4a6cf7;
+}
+
+.detail-info button {
+  background: #4a6cf7;
+  color: white;
+  padding: 14px 28px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}

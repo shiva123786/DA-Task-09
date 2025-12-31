@@ -1,0 +1,33 @@
+.checkout-page {
+  max-width: 1000px;
+  margin: auto;
+  padding: 40px;
+}
+
+.checkout-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.checkout-form, .order-summary {
+  background: white;
+  padding: 30px;
+  border-radius: 18px;
+  box-shadow: 0 12px 30px rgba(0,0,0,0.1);
+}
+
+.checkout-form input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+}
+
+.checkout-form button {
+  background: #4a6cf7;
+  color: white;
+  padding: 14px;
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+}

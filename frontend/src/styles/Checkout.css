@@ -1,0 +1,8 @@
+.checkout-box {
+  max-width: 500px;
+  margin: auto;
+  background: rgba(255,255,255,0.08);
+  padding: 25px;
+  border-radius: 18px;
+  backdrop-filter: blur(15px);
+}

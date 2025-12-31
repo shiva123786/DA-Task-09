@@ -1,0 +1,40 @@
+.hero {
+  height: 70vh;
+  background: linear-gradient(to right, #4a6cf7, #8f94fb);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+}
+
+.hero-content p {
+  margin: 15px 0;
+}
+
+.hero-btn {
+  background: white;
+  color: #4a6cf7;
+  padding: 14px 28px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.product-section {
+  padding: 50px;
+}
+
+.product-section h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 25px;
+}

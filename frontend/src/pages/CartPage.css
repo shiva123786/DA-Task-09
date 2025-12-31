@@ -1,0 +1,31 @@
+.cart-page {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px;
+}
+
+.cart-item {
+  display: flex;
+  gap: 20px;
+  background: #fff;
+  border-radius: 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.cart-item img {
+  width: 120px;
+}
+
+.qty-controls button {
+  padding: 5px 12px;
+}
+
+.checkout-btn {
+  background: #4a6cf7;
+  color: white;
+  padding: 14px 30px;
+  border-radius: 10px;
+  text-decoration: none;
+}
