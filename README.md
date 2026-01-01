@@ -31,6 +31,9 @@ This backend demonstrates real-world server-side development concepts including 
 | Postman | API testing |
 
 ---
+## Home Page
+<img width="1897" height="739" alt="image" src="https://github.com/user-attachments/assets/eab05946-5d8f-49ec-ad8f-4128a517d91b" />
+
 
 ## 🗂 Folder Structure
 
